@@ -11,3 +11,4 @@ Dosyalar arasında uyumsuzluk var
 
 
 yeni bir uyumsuzluk
+bu dosya hangi görevi yürütüyor
