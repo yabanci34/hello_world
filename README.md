@@ -7,3 +7,6 @@ Bu dosyada bazı değişiklikler yapılmıştır.
 Bu değişiklikler main dosyasına eklenecektir.
 
 Bütün değişiklikler yapıldıktan sora branslar silinecektir
+
+
+yeni bir uyumsuzluk
