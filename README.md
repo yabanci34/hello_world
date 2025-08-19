@@ -11,3 +11,4 @@ Dosyalar arasında uyumsuzluk var
 
 
 yeni bir uyumsuzluk
+Al sana yeni bir uyumsuzluk daha
