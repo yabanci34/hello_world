@@ -2,3 +2,6 @@
 GitHub start
 
 Bu dosya GitHub öğrenmek maksadıyla oluşturulmuştur
+
+Bu dosyada bazı değişiklikler yapılmıştır.
+Bu değişiklikler main dosyasına eklenecektir.
